@@ -5,7 +5,10 @@ Flower: Helpful to count the flowers or identify the specific kind of flower.
   https://www.kaggle.com/alxmamaev/flowers-recognition#flowers.zip
 
 -Gesture to control music/video player ：can I use gesture to stop the music or play the music or change the music. Can I connect the gesture to the music controller?
-volumio on raspberry pi 
+volumio on raspberry pi &MQTT? "ifttt":API
+nano ; what is the output? 
+edge impulse
+phone? 
 
 -Voice-activated door ：say some words specifically by specified person, then the door will open. Can I classify peoples sound on a raspberry pi?
 -Identify and count the bird passing by my window. Can I train the camera to..? different kinds of birds.: Tensorflow and raspberry pi
