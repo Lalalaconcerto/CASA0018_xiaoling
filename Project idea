@@ -1,14 +1,14 @@
--Different colour to identify plant health? Can I identify the plant and check every part of the plant? Or can I detect and count a specific kind of flower.
+-Different colour to identify plant health? Or can I detect and count a specific kind of flower.
 Flower: Helpful to count the flowers or identify the specific kind of flower.
   Tech: Tensorflow and raspberry pi
   Using: flower dataset. : chamomile、 tulip、rose、sunflower、dandelion(each 800)
   https://www.kaggle.com/alxmamaev/flowers-recognition#flowers.zip
-Plant health:
-1.	identify the plant
+Plant health: Sholud I deal with pictures or realtime video via camera?
+1.	identify the plant. Can I identify the plant and check every part of the plant? 
 2.	identify the yellowed and dry parts
 
 -Voice-activated door ：say some words specifically by specified person, then the door will open. Can I classify peoples sound on a raspberry pi?
--Gesture to control music ：can I use gesture to stop the music or play the music or change the music. Can I connect the gesture to the music controller?
-- Identify and count the bird passing by my window. Can I train the camera to..? different kinds of birds.: Tensorflow and raspberry pi
+-Gesture to control music/video player ：can I use gesture to stop the music or play the music or change the music. Can I connect the gesture to the music controller?
+-Identify and count the bird passing by my window. Can I train the camera to..? different kinds of birds.: Tensorflow and raspberry pi
 -Detect and count the number of people passing by the door 
 
