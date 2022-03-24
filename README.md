@@ -2,7 +2,7 @@
 ## Research process: 
 1. Data capture
 2. Data training
-3. Data claasifying
+3. Data classifying
 
 
 ## Video 
