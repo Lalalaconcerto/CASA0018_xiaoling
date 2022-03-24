@@ -1,14 +1,17 @@
--Different colour to identify plant health? Or can I detect and count a specific kind of flower.
-Flower: Helpful to count the flowers or identify the specific kind of flower.
-  Tech: Tensorflow and raspberry pi
-  Using: flower dataset. : chamomile、 tulip、rose、sunflower、dandelion(each 800)
-  https://www.kaggle.com/alxmamaev/flowers-recognition#flowers.zip
 
 -Gesture to control music/video player ：can I use gesture to stop the music or play the music or change the music. Can I connect the gesture to the music controller?
 volumio on raspberry pi &MQTT? "ifttt":API
 nano ; what is the output? 
 edge impulse
 phone? 
+
+
+-Different colour to identify plant health? Or can I detect and count a specific kind of flower.
+Flower: Helpful to count the flowers or identify the specific kind of flower.
+  Tech: Tensorflow and raspberry pi
+  Using: flower dataset. : chamomile、 tulip、rose、sunflower、dandelion(each 800)
+  https://www.kaggle.com/alxmamaev/flowers-recognition#flowers.zip
+
 
 -Voice-activated door ：say some words specifically by specified person, then the door will open. Can I classify peoples sound on a raspberry pi?
 -Identify and count the bird passing by my window. Can I train the camera to..? different kinds of birds.: Tensorflow and raspberry pi
