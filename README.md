@@ -1,8 +1,8 @@
 # CASA0018_xiaoling
 ## Research process: 
-1. Data capture
-2. Data training
-3. Data classifying
+1. Data capture (Arduino)
+2. Data training (Tensorflow)
+3. Data classifying (Arduino)
 
 
 ## Video 
